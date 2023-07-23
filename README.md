@@ -9,7 +9,7 @@ The repository contains a Jupyter Notebook with the code necessary to answer thr
 1. Which are the genres of the 10 most voted movies that Microsoft should consider starting out with and what is the average domestic gross and foreign gross of those genres?
 2. Which are the 10 top most average foreign and domestic grossing genres which Microsoft should also consider starting out with?
 3. Which studios had produced the genres with highest voted movies that Microsoft can collaborate with in producing movies?  
-Additionally, a Power Point Presentation is provided to provide at glance view of the answers
+Additionally, a Power Point Presentation is provided to provide at a glance view of the answers
 
 # Usage
 
