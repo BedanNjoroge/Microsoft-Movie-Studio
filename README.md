@@ -18,17 +18,18 @@ To use the code in this repository, please follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ahmad10Raza/Thyroid-Disease-Detection.git
+   git clone https://github.com/BedanNjoroge/Microsoft-Movie-Studio.git
    ```
 2. Review the codes and notes on the Jupyter Notebook
 3. Review the Power Point presentation for an easier and faster visual translation.
    
 ## Data
 
-The whole dataset used for in analysing has not been wholly included in this repository only the specific files used. However, you can find the dataset used in the project at https://github.com/learn-co-curriculum/dsc-project-template.git.
-The three datasets bom.movie_gross.csv, title.basics.csv and 'title.ratings.csv and have been included in this repository.
+The whole dataset used for in exploration has not been wholly included in this repository only the specific files used have been added. However, you can find the dataset used in the project at https://github.com/learn-co-curriculum/dsc-project-template.git.
 
-## Contributing
+The three datasets bom.movie_gross.csv, title.basics.csv and 'title.ratings.csv used in exploration have been included in this repository.
+
+## Contribution
 
 Contributions to this project are welcome. If you find any more insights that have been left out issues or have any uggestions please open an issue or submit a pull request.
 
