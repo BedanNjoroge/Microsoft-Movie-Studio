@@ -1,7 +1,7 @@
-![image](https://github.com/BedanNjoroge/Microsoft-Movie-Studio/assets/118848352/c9340d44-70be-4f75-ac51-ac2014759df0)# Microsoft-Movie-Studio
+# Microsoft-Movie-Studio
 This repository contains code for a Microsoft Movie Studio project. The project aims to provide actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-#Introduction and Business Problem**
+## Introduction and Business Problem
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. 
 They have decided to create a new movie studio, but they don’t know anything about creating movies. 
 
@@ -20,5 +20,17 @@ To use the code in this repository, please follow these steps:
    ```bash
    git clone https://github.com/Ahmad10Raza/Thyroid-Disease-Detection.git
    ```
+2. Review the codes and notes on the Jupyter Notebook
+3. Review the Power Point presentation for an easier and faster visual translation.
+   
+## Data
+
+The whole dataset used for in analysing has not been wholly included in this repository only the specific files used. However, you can find the dataset used in the project at https://github.com/learn-co-curriculum/dsc-project-template.git.
+The three datasets bom.movie_gross.csv, title.basics.csv and 'title.ratings.csv and have been included in this repository.
+
+## Contributing
+
+Contributions to this project are welcome. If you find any more insights that have been left out issues or have any uggestions please open an issue or submit a pull request.
+
 
 
